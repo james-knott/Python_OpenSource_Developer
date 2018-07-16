@@ -28,3 +28,8 @@ $ brew install python3
 ```sh
 $ pip3 install pipenv
 ```
+### Install IPython
+
+```sh
+$ brew install ipython
+```
